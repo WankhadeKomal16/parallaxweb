@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+.parallaxone{
+    width:100%;
+    height:100vh;
+    background-image: url(1st.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+    
+}
+.parallaxone h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 350px;
+    height: 50px;
+    padding: 10px;
+    background-color: #3a3a3a;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.parallaxtwo{
+    width:100%;
+    height:500px;
+    background-image: url(2nd.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.70;
+}
+.parallaxtwo h2{
+    position: relative;
+    left: 35px;
+    top:250px;
+    color:white;
+    text-align: center;
+    font-weight: 600px;
+    letter-spacing: 3px;
+    
+    
+}
+.parallaxthree{
+    width:100%;
+    height:500px;
+    background-image: url(3rd.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+}
+.parallaxthree h2{
+    position: relative;
+    left: 35px;
+    top:250px;
+    color:white;
+    text-align: center;
+    font-weight: 600px;
+    letter-spacing: 3px;
+}
+.para{
+    color: #ddd;
+    line-height: 1.5;
+    font-size: 18px;
+    padding: 50px 80px;
+    text-align: center;
+}
+.parah2{
+   padding: 30px;
+   text-align: center;
+}
+#grad1{
+    background-color:white;
+    padding: 70px;
+    text-align: justify;
+    color: #aeaeae;
+   
+   
+}
+#grad4{
+    background-color: #3a3a3a;
+   
+}
